@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "String_Strip", "String_Strip\String_Strip.pyproj", "{E69687B8-64A4-4B27-B880-5E50F36CC0B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E69687B8-64A4-4B27-B880-5E50F36CC0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E69687B8-64A4-4B27-B880-5E50F36CC0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CEAE42B-3851-49CF-88CF-0B28F39B1EED}
+	EndGlobalSection
+EndGlobal
